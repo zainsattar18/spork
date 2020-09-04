@@ -2,6 +2,7 @@
 
 
 See it live! [http://spork-app-p3.surge.sh/](http://spork-app-p3.surge.sh/)
+![Spork Demo](gif/spork.gif)
 
 
 
