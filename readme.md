@@ -1,7 +1,7 @@
 ![Spork](https://i.imgur.com/C8yDrQM.png)
 
 
-See it live! [http://spork-app.surge.sh/](http://spork-app.surge.sh/)
+See it live! [http://spork-app-p3.surge.sh/](http://spork-app-p3.surge.sh/)
 
 
 
@@ -145,27 +145,28 @@ router.delete('/comments/:id', controllers.deleteComment)
 |    Library     | Description                                |
 | :------------: | :----------------------------------------- |
 |     React      | Using class and function-based components |
-|  React Router  | Router to accomodate FullRecipe, Substitutions, Comments renders by id |
+|  React Router  | Router to accommodate FullRecipe, Substitutions, Comments renders by id |
 |    Express     | Creating backend API with full CRUD|
-| Express Router | |
-|    Mongoose    | |
+|    Mongoose    | Object modeling for node.js |
+|   MongoDB        | Back-End database |
 
 <br>
 
 ***
 
-## Goals for Sprint 2
+## Sprint 2
 
-> Coming soon
+1. Added a pop-up modal for editing reviews.   
+2. Incoporated Firebase database.
+3. Sign-In & Google Sign-In methods for Auth. 
+4. Additional CSS as required. 
+
 
 ***
 
 ## Code Issues & Resolutions
 
-> Coming soon
 
-***
 
-## Change Log
 
-> Coming soon
+
