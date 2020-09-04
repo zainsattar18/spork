@@ -167,6 +167,7 @@ a :hover {
     .sporkLogo {
         height: auto;
         width: 215px;
+        padding-left:22%;
     }
 }
 
